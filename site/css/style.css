@@ -40,6 +40,19 @@ body {
   font-size: 1.5rem;
   margin-bottom: 12px;
 }
+.site-header .org-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.site-header .org-subtitle {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  margin-bottom: 16px;
+}
 .site-header .subtitle {
   opacity: 0.9;
   font-size: 0.95rem;
