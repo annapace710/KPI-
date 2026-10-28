@@ -218,6 +218,7 @@ tr:nth-child(even) td { background: #f8f9f9; }
   margin: 16px 0;
 }
 .callout.info { border-left-color: var(--primary); background: #eef5fa; }
+.callout.danger { border-left-color: var(--danger); background: #fdecea; }
 
 /* Footer */
 .site-footer {
